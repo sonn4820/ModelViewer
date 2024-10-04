@@ -1,0 +1,951 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\p4\\Personal\\SD\\ModelViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\ObjLoader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\ObjLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\VertexUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Model.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Model.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Entity.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Entity.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Renderer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\P4\\PERSONAL\\SD\\ENGINE\\CODE\\ENGINE\\RENDERER\\CPUMESH.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\GameCommon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\GameCommon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\GameCommon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\GameCommon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\App.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\App.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Prop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Prop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Prop.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Prop.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\VertexUtils.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\VertexBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\GPUMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\DebugRender.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Texture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Main_Windows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Main_Windows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\CPUMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\p4\\Personal\\SD\\ModelViewer\\Run\\Data\\Materials\\Tutorial_Box.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Run\\Data\\Materials\\Tutorial_Box.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\p4\\Personal\\SD\\ModelViewer\\Run\\Data\\Models\\Tutorial_Box.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Run\\Data\\Models\\Tutorial_Box.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\NamedStrings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\JobSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.38.33130\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\DebugRender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\P4\\PERSONAL\\SD\\ENGINE\\CODE\\ENGINE\\RENDERER\\MATERIAL.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\FileUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\OBB3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\Rgba8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\Rgba8.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Mat44.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Vec3.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\ErrorWarningAssert.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Input\\InputSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Input\\InputSystem.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\MathUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\StringUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\XmlUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\XmlUtils.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28BFAD-42B9-43C4-8B0E-6B97A12025ED}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Window\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Window\\Window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\FileUtils.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\NamedStrings.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\UI\\Panel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Quaternion.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\EngineBuildPreferences.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\P4\\PERSONAL\\SD\\ENGINE\\CODE\\ENGINE\\CORE\\STRINGUTILS.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\P4\\PERSONAL\\SD\\ENGINE\\CODE\\ENGINE\\RENDERER\\GPUMESH.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\P4\\PERSONAL\\SD\\ENGINE\\CODE\\ENGINE\\CORE\\VERTEX_PCU.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998787E-65B5-4B92-8706-546A873BF7DE}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\P4\\PERSONAL\\SD\\ENGINE\\CODE\\ENGINE\\RENDERER\\VERTEXBUFFER.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 348,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Prop.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Prop.hpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Prop.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Prop.hpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\Prop.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T20:03:54.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Entity.cpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Entity.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Entity.cpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\Entity.cpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T02:42:50.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entity.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Entity.hpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Entity.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Entity.hpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\Entity.hpp [Read Only]",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAtwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T02:42:52.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Model.hpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Model.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Model.hpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\Model.hpp [Read Only]",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T20:09:29.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Model.cpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Model.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Model.cpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\Model.cpp [Read Only]",
+              "ViewState": "AQIAACkAAAAAAAAAAAArwEEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T20:12:35.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameCommon.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\GameCommon.cpp",
+              "RelativeDocumentMoniker": "Code\\Game\\GameCommon.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\GameCommon.cpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\GameCommon.cpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T15:13:56.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VertexUtils.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\VertexUtils.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\VertexUtils.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\VertexUtils.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\VertexUtils.cpp [Read Only]",
+              "ViewState": "AQIAAFkDAAAAAAAAAAAEwG8DAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T19:39:36.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CPUMesh.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\CPUMesh.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\CPUMesh.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\CPUMesh.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\CPUMesh.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T19:36:44.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Game.cpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Game.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Game.cpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\Game.cpp [Read Only]",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAAOUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T00:53:33.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjLoader.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\ObjLoader.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\ObjLoader.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\ObjLoader.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\ObjLoader.hpp [Read Only]",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwD0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T22:38:21.015Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjLoader.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\ObjLoader.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\ObjLoader.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\ObjLoader.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\ObjLoader.cpp [Read Only]",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAmwAABAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T19:37:14.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Renderer.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Renderer.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\Renderer.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Renderer.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\Renderer.hpp [Read Only]",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAEwN0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T19:46:44.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Renderer.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\Renderer.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Renderer.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\Renderer.cpp [Read Only]",
+              "ViewState": "AQIAAGgBAAAAAAAAAAD4v3kBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T19:45:42.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Player.cpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Player.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Player.cpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\Player.cpp [Read Only]",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T02:15:41.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameCommon.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\GameCommon.hpp",
+              "RelativeDocumentMoniker": "Code\\Game\\GameCommon.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\GameCommon.hpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\GameCommon.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T20:14:48.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\App.hpp",
+              "RelativeDocumentMoniker": "Code\\Game\\App.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\App.hpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\App.hpp [Read Only]",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-20T21:38:37.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GPUMesh.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\GPUMesh.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\GPUMesh.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\GPUMesh.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\GPUMesh.cpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T19:36:30.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Game.hpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Game.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Game.hpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\Game.hpp [Read Only]",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T02:05:04.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\App.cpp",
+              "RelativeDocumentMoniker": "Code\\Game\\App.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\App.cpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\App.cpp [Read Only]",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAMcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T02:08:35.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VertexUtils.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\VertexUtils.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\VertexUtils.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\VertexUtils.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\VertexUtils.hpp [Read Only]",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwCUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T19:37:31.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Prop.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Prop.cpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Prop.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Prop.cpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\Prop.cpp [Read Only]",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowDcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T20:05:54.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Vertex_PCU.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\Vertex_PCU.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\Vertex_PCU.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\Vertex_PCU.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\Vertex_PCU.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T19:20:48.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VertexBuffer.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\VertexBuffer.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\VertexBuffer.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\VertexBuffer.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\VertexBuffer.cpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T19:44:02.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "VertexBuffer.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\VertexBuffer.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\VertexBuffer.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\VertexBuffer.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\VertexBuffer.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T19:40:22.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DebugRender.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\DebugRender.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\DebugRender.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\DebugRender.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\DebugRender.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-02T01:24:28.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Texture.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Texture.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\Texture.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Texture.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\Texture.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T19:45:02.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Main_Windows.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Main_Windows.cpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Main_Windows.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Main_Windows.cpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\Main_Windows.cpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T23:42:15.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Tutorial_Box.xml",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Run\\Data\\Models\\Tutorial_Box.xml",
+              "RelativeDocumentMoniker": "Run\\Data\\Models\\Tutorial_Box.xml",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Run\\Data\\Models\\Tutorial_Box.xml",
+              "RelativeToolTip": "Run\\Data\\Models\\Tutorial_Box.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-27T20:20:58.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CPUMesh.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\CPUMesh.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\CPUMesh.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\CPUMesh.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\CPUMesh.cpp [Read Only]",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T19:36:54.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tutorial_Box.xml",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Run\\Data\\Materials\\Tutorial_Box.xml",
+              "RelativeDocumentMoniker": "Run\\Data\\Materials\\Tutorial_Box.xml",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Run\\Data\\Materials\\Tutorial_Box.xml [Read Only]",
+              "RelativeToolTip": "Run\\Data\\Materials\\Tutorial_Box.xml [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-27T20:21:06.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DebugRender.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\DebugRender.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\DebugRender.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\DebugRender.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\DebugRender.cpp [Read Only]",
+              "ViewState": "AQIAAIQBAAAAAAAAAAAEwJMBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T01:24:26.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JobSystem.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\JobSystem.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\JobSystem.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\JobSystem.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\JobSystem.cpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T20:12:03.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NamedStrings.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\NamedStrings.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\NamedStrings.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\NamedStrings.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\NamedStrings.cpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T20:12:04.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Material.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Material.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\Material.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Material.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\Material.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-20T02:49:14.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "ViewState": "AQIAAFEHAAAAAAAAAAAtwGQHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-31T14:53:30.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FileUtils.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\FileUtils.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\FileUtils.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\FileUtils.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\FileUtils.cpp [Read Only]",
+              "ViewState": "AQIAABUAAAAAAAAAAAAMwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T22:45:57.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Texture.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\Texture.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Texture.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\Texture.cpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T03:42:34.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OBB3.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\OBB3.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Math\\OBB3.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\OBB3.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Math\\OBB3.cpp [Read Only]",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T06:20:47.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Rgba8.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\Rgba8.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\Rgba8.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\Rgba8.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\Rgba8.hpp [Read Only]",
+              "ViewState": "AQIAAB4AAAAAAAAAAAArwC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-23T22:50:22.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Material.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Material.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\Material.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\Material.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\Material.cpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T03:07:06.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Vec3.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Vec3.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Math\\Vec3.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Vec3.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Math\\Vec3.cpp [Read Only]",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAhwIwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T01:32:17.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Mat44.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Mat44.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Math\\Mat44.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Mat44.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Math\\Mat44.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-20T21:01:24.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Rgba8.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\Rgba8.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\Rgba8.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\Rgba8.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\Rgba8.cpp [Read Only]",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T18:05:08.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Vec3.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Vec3.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Math\\Vec3.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Vec3.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Math\\Vec3.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-31T01:32:16.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ErrorWarningAssert.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\ErrorWarningAssert.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\ErrorWarningAssert.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\ErrorWarningAssert.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\ErrorWarningAssert.cpp [Read Only]",
+              "ViewState": "AQIAANwAAAAAAAAAAAAjwOUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T04:28:40.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GPUMesh.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\GPUMesh.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Renderer\\GPUMesh.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Renderer\\GPUMesh.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Renderer\\GPUMesh.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T19:36:30.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "InputSystem.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Input\\InputSystem.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Input\\InputSystem.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Input\\InputSystem.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Input\\InputSystem.hpp [Read Only]",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-15T22:08:46.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InputSystem.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Input\\InputSystem.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Input\\InputSystem.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Input\\InputSystem.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Input\\InputSystem.cpp [Read Only]",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T22:08:51.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MathUtils.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\MathUtils.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Math\\MathUtils.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\MathUtils.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Math\\MathUtils.cpp [Read Only]",
+              "ViewState": "AQIAAH8FAAAAAAAAAAAAwJQFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T18:06:37.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StringUtils.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\StringUtils.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\StringUtils.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\StringUtils.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\StringUtils.cpp [Read Only]",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAswIcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T20:21:35.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "StringUtils.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\StringUtils.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\StringUtils.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\StringUtils.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\StringUtils.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T20:21:18.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "XmlUtils.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\XmlUtils.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\XmlUtils.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\XmlUtils.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\XmlUtils.cpp [Read Only]",
+              "ViewState": "AQIAAIYAAAAAAAAAAAArwKAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T23:13:13.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "XmlUtils.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\XmlUtils.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\XmlUtils.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\XmlUtils.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\XmlUtils.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T22:41:39.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Player.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Player.hpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Player.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\ModelViewer\\Code\\Game\\Player.hpp [Read Only]",
+              "RelativeToolTip": "Code\\Game\\Player.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T02:15:40.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Window.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Window\\Window.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Window\\Window.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Window\\Window.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Window\\Window.cpp [Read Only]",
+              "ViewState": "AQIAAL8AAAAAAAAAAAArwOgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T01:56:30.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Window.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Window\\Window.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Window\\Window.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Window\\Window.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Window\\Window.hpp [Read Only]",
+              "ViewState": "AQIAAAwAAAAAAAAAAAArwCMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T20:01:37.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FileUtils.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\FileUtils.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\FileUtils.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\FileUtils.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\FileUtils.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T22:41:46.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "NamedStrings.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\NamedStrings.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\NamedStrings.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\NamedStrings.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\NamedStrings.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-31T16:18:30.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Panel.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\UI\\Panel.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\UI\\Panel.cpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\UI\\Panel.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\UI\\Panel.cpp [Read Only]",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAYwH8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T14:24:54.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Quaternion.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Quaternion.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Math\\Quaternion.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Math\\Quaternion.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Math\\Quaternion.hpp [Read Only]",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-31T06:25:14.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EngineBuildPreferences.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\EngineBuildPreferences.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\EngineBuildPreferences.hpp",
+              "ToolTip": "D:\\p4\\Personal\\SD\\Engine\\Code\\Engine\\Core\\EngineBuildPreferences.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\EngineBuildPreferences.hpp [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-30T19:19:13.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<Material name="Cube_Textured" 
+		  shader="Data/Shaders/EverythingShader" 
+		  vertexType="Vertex_PCUTBN" 
+		  diffuseTexture="Data/Images/Cube_Textured_Diffuse.png" 
+		  normalTexture="Data/Images/Cube_Textured_Normal.png" 
+		  specGlossEmitTexture="Data/Images/Cube_Textured_SpecGlossEmit.png" 
+		  color="255,255,255,255"/>
